@@ -1,0 +1,83 @@
+VENDOO Vend to WooCommerce One Stop Solution
+Now You Can Intrigate Vend Pos system with WooCommerce. It's More easy & Swift.
+
+Features
+
+
+=> You will be able to bring all the variable and simple product from Vend to WooCommerce with the featured image. 
+=> Change your product attribute from Vend it will be synced automatically on your WordPress. 
+=> Change Your Product data from WordPress it will be synced automatically on Vend pos system.
+=> If you have sold a product from WooCommerce store, sales data will be synced automatically. Even you can add customer from Woo store to vend & you can give customer group id. 
+
+
+
+Getting Started
+We have developed this plugin with lots of love. I hope you will be able to activate the plugin without this documentation. Then if you need any help you can use this documentation. 
+
+If you think this documentation is not enough for you just contact us through Envato or you can send mail to themexplorer.org@gmail.com. our Support team will reply as soon as possible. 
+
+ 
+
+ 
+
+Activation
+First Unzip the file, within main_folder/plugins you will get the zip file. Upload the plugin using Plugin upload section.  
+
+To activate the plugin, You have to install WooCommerce Plugin first. After installing this WooCommerce plugin Activate Vendoo. 
+
+ 
+
+Activation
+
+Then go to vend from dashboard menu, Give all your credentials.
+
+Access Key will be your permanent access key. You will get it from vend  - > Set Up - > Personal Tokens 
+
+Base Url will be the, your selected prefix + vend url.  
+
+The update interval is necessary to avoid multiple webhook implementations. Generally 5  (5 seconds) default. You can change it if necessary. 
+
+If you want to add customer from WooCommerce to vend you can select Add Customer = yes. 
+
+You can give specific group id for Woocommerce Customer. You will get the Customer group if from vend. 
+
+Finally Click Save change. 
+
+ 
+
+ 
+
+ 
+
+Fetch Product
+You can fetch all the simple & variable product from Vend pos to WooCommerce with one click. Or you can fetch selected product also. 
+
+Go to Vend -> Products, If your credentials are Ok, you will be able to all the product list from vend  Click the Sync button If you want to fetch a single product.   Using Bulk Actions you can fetch all the selected product or If you want to fetch all the product at once just select Fetch all 
+
+All this Process will run on the Background So you can move
+
+ 
+
+
+
+Product Update
+From Vend
+
+If you change any attribute from vend pos, it will affect the WooCommerce product also. 
+
+ 
+
+From WooCommerce 
+For variable Product, sync-able attributes are title and description. For the simple product, sync-able attributes are the title, description, and SKU. 
+
+If you delete any product on your WooCommerce it will deactivate the product on vend pos/
+
+ 
+
+ 
+
+
+Conclusion
+We have developed the plugin to solve your problem easily. If you have any suggestion Please let us know. It will affect the next update. 
+
+
